@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1758
     wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25357#A-Hundred-Fables-of-La-Fontaine
 gutenberg_issued: '2008-05-06'
 gutenberg_type: Text
 identifiers:
